@@ -1,5 +1,7 @@
 
-Neste projeto pensei em trazer algumas experiências diárias que tenho na minha máquina do trabalho. Como desenvolvedor nós sempre gostamos de personalizar/configurar nosso computador e poder usar de tudo que ela oferece.
+## Automação de comandos
+
+Neste mini projeto pensei em trazer algumas das experiências diárias que tenho na minha máquina do trabalho (via terminal). Nós desenvolvedores sempre gostamos de personalizar/configurar nosso computador e poder usar de tudo que ele oferece.
 
 ### Dores
 
